@@ -2,8 +2,8 @@
 layout:     post
 title:      Markdown的使用
 subtitle:   Markdown语法
-date:       2018-01-05
-author:     Will Wang
+date:       2021-04-25
+author:     slHu
 header-img: img/post-bg-article.jpg
 catalog: true
 tags:
@@ -86,14 +86,11 @@ tags:
 
 <font color="green">--------------------------------------</font>
 
-欢迎来到[王志彪的GitHub主页](https://github.com/flyingwzb)
+欢迎来到[slHu的GitHub主页](https://github.com/shuanglongHu)
 ```markdown
-欢迎来到[王志彪的GitHub主页](https://github.com/flyingwzb)
+欢迎来到[slHu的GitHub主页](https://github.com/shuanglongHu)
 ```
 
-欢迎来到[王志彪的GitHub主页](https://github.com/flyingwzb "will wang")
-```markdown
-欢迎来到[王志彪的GitHub主页](https://github.com/flyingwzb "will wang")
 ```
 
 <font color="yellow">--------------------------------------</font>
@@ -101,8 +98,8 @@ tags:
 我经常去的几个网站[Google][1]、[GitHub主页][2]以及[我的博客][3]、[GitHub][2]是一个不错的[网站][]。
 
 [1]:http://www.google.com "Google"
-[2]:https://github.com/flyingwzb "GitHub主页"
-[3]:https://flyingwzb.github.io "我的博客"
+[2]:https://github.com/shuanglongHu "GitHub主页"
+[3]:https://shuanglongHu.github.io "我的博客"
 [网站]:https://github.com
 
 ```markdown
