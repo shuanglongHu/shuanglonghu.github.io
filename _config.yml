@@ -11,7 +11,7 @@ github_repo: "https://github.com/shuanglongHu/shuanglongHu.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Latter is better than never!"
+sidebar-about-description: "Better late than never!"
 sidebar-avatar: /img/sl-hu.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
