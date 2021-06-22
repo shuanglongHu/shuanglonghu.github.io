@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      IDEA快捷键使用
-subtitle:   熟练使用IDEA快捷键，开发效率飞一般的感觉
+subtitle:   IDEA常用快捷键
 date:       2021-05-15
 author:     slHu
 header-img: img/post-bg-debug.png
