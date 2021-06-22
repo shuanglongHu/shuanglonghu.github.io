@@ -17,7 +17,7 @@ sidebar-avatar: /img/sl-hu.jpg      # use absolute URL, seeing it's used in both
 
 
 # SNS settings
-RSS: true
+RSS: false
 #weibo_username:     
 zhihu_username:     小小猪L
 github_username:    shuanglongHu
