@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Windows快捷键
-subtitle:   熟练使用这些快捷键，提升开发效率
+subtitle:   Windows常用快捷键
 date:       2021-05-01
 author:     slHu
 header-img: img/post-windows.png
