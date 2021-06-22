@@ -17,13 +17,13 @@ sidebar-avatar: /img/sl-hu.jpg      # use absolute URL, seeing it's used in both
 
 
 # SNS settings
-RSS: false
-#weibo_username:     wzb1994
-#zhihu_username:     zongguanxian
-#github_username:    flyingwzb
+RSS: true
+#weibo_username:     
+zhihu_username:     小小猪L
+github_username:    shuanglongHu
 # facebook_username:  username
-# jianshu_username:   jianshu_id
-#twitter_username:   wzbcode
+# jianshu_username:   
+#twitter_username:   
 
 
 # Build settings
@@ -62,9 +62,9 @@ gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: ae47d898c3d118b467be                            #生成的clientID
   clientSecret: c30e8df95d413ec73785dea5b4237424165f77c7    #生成的clientSecret
-  repo: flyingwzb.github.io    #仓库名称
-  owner: flyingwzb    #github用户名
-  admin: flyingwzb
+  repo: shuanglongHu.github.io    #仓库名称
+  owner: shuanglongHu    #github用户名
+  admin: shuanglongHu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -72,7 +72,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 663c4e374daa85484d84293eee0ad7aa
 
 # Google Analytics
 #ga_track_id: 'UA-137811562-1'            # Format: UA-xxxxxx-xx
