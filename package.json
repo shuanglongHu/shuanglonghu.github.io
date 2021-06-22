@@ -1,14 +1,14 @@
 {
-    "name": "w-blog",
-    "title": "Will Wang Blog",
-    "author": "Will Wang <wzbcode@163.com>",
+    "name": "sl Hu-blog",
+    "title": "sl Hu Blog",
+    "author": "sl Hu <slHu147@163.com>",
     "version": "1.7.0",
-    "homepage": "https://flyingwzb.github.io",
+    "homepage": "https://shuanglongHu.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/flyingwzb/flyingwzb.github.io"
+        "url": "https://github.com/shuanglongHu/shuanglongHu.github.io"
     },
-    "bugs": "https://github.com/flyingwzb/flyingwzb.github.io/issues",
+    "bugs": "https://github.com/shuanglongHu/shuanglongHu.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
