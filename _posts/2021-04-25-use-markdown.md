@@ -4,7 +4,7 @@ title:      Markdown的使用
 subtitle:   Markdown语法
 date:       2021-04-25
 author:     slHu
-header-img: img/post-bg-article.jpg
+header-img: img/post-markdown.png
 catalog: true
 tags:
     - Markdown
